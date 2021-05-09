@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @ChowtooriKedari
-- 📫 How to reach me on chowtoorikedari@gmail.com
+- 📫 You can reach me on chowtoorikedari@gmail.com
