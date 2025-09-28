@@ -1,66 +1,87 @@
 # Hi, I'm Kedari Chowtoori 👋  
 
-I'm a full-stack developer and XR enthusiast passionate about building interactive systems — from web apps to VR simulations to high-speed imaging frameworks.  
+I'm a full-stack developer and XR enthusiast passionate about building interactive systems — from immersive VR simulations to interactive web apps and robotics projects.  
 
 ---
 
 ## 🚀 Featured Projects  
 
-### 🎮 XR / VR
-- [**Chith Vihar in VR**](https://github.com/ChowtooriKedari/APK-s)  
-  Immersive VR app built in Unity and packaged for Android.  
-  ![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-
-- **SASTRA Tour in Unity**  
-  A virtual tour of the SASTRA campus, blending interactive 3D environments with immersive navigation.  
+### 🎮 XR / VR  
+- [**SASTRA Tour in Unity**](https://github.com/ChowtooriKedari/SASTRA-Tour-Unity)  
+  A virtual 3D tour of the SASTRA University campus built with Unity for immersive navigation.  
+  ![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
 
 ---
 
-### 🌐 Full-Stack / Web
-- **Cafe Management System**  
-  Handles orders, billing, and inventory with a responsive frontend and secure backend.  
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+### 🌐 Web & Interactive Apps  
+- [**Hop Timeline**](https://github.com/ChowtooriKedari/Hop_TimeLine_New)  
+  An Angular and JavaScript web app showcasing Dartmouth’s art history in an interactive timeline.  
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 
-- **Ask Leadership Platform** *(Blackhawk Network)*  
-  Internal HR portal to streamline communication between employees and leadership. Increased API response time by 25–30% through backend optimization.  
+- [**HOP Pepper’s Ghost**](https://github.com/ChowtooriKedari/HOPPepperGhost)  
+  An app for Dartmouth’s Hopkins Center to create Pepper’s Ghost Illusions for interactive student showcases.  
+  ![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
 
 ---
 
-### 🔬 Research & Experiments
-- **High-Speed Imaging Framework**  
-  Built an ultra-fast acousto-optic imaging system with sparse sampling and generative priors. Explored reconstruction with Fourier L1 minimization, CNNs, and diffusion inpainting.  
-  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  
+### 🖌️ 3D Modeling & Interactive Design  
 
-- **Light-Field Camera Rig**  
-  Custom multi-camera setup with Raspberry Pi and 64MP ArduCams, producing disparity maps, refocus, and depth reconstructions.  
+- [**The Garage**](https://github.com/ChowtooriKedari/The-Garage)  
+  A 3D garage designed and modeled in Maya.  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Maya](https://img.shields.io/badge/Autodesk%20Maya-37A5CC?logo=autodesk&logoColor=white)  
+
+- [**Oreo The Robot**](https://github.com/ChowtooriKedari/Oreo_The-Robot)  
+  An animated robot design, rigged and animated in Maya.  
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white) ![Maya](https://img.shields.io/badge/Autodesk%20Maya-37A5CC?logo=autodesk&logoColor=white)  
+
+
+
+## 🕒 Timeline of Experience  
+
+- **2023–2025** — Master’s in Computer Science (Digital Arts), Dartmouth College  
+  - Teaching Assistant for Computer Graphics and Digital Fabrication  
+  - Hop Fellow at the Hopkins Center for the Arts (Interactive Timeline & Pepper’s Ghost App)  
+
+- **2021–2023** — Software Engineer, Blackhawk Network  
+  - Built and optimized internal HR & e-commerce platforms  
+  - Improved API response times by 25–30% and achieved 80%+ test coverage  
+
+- **2017–2021** — B.Tech in Computer Science and Engineering, SASTRA University  
+  - Developed academic and personal projects in web, databases, and VR  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)  
+
+**Frameworks & Libraries**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)  
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white)  
+![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white)  
+
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+
+
+**Cloud & Databases**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
 
 ---
 
-## 📊 GitHub Stats  
+## 📬 Contact  
 
-![Kedari's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChowtooriKedari&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChowtooriKedari&layout=compact&theme=radical)  
-
----
-
-## 🌍 Connect  
-
-- [Portfolio Website](#)  
-- [LinkedIn](https://www.linkedin.com/in/kedarichowtoori/)  
-- [Email](mailto:kedari.chowtoori.gr@dartmouth.edu)  
+- [Portfolio Website](https://kedari-chowtoori.vercel.app)  
+- [LinkedIn](https://www.linkedin.com/in/kedari99/)  
+- [Email](mailto:kedarichowtoori@gmail.com)  
 
 ---
