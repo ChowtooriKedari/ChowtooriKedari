@@ -56,16 +56,7 @@ I'm a full-stack developer and XR enthusiast passionate about building interacti
 - Acousto-optics: ultrasonic wave interactions, beam steering  
 - Computational Photography: Fourier analysis, depth mapping  
 - VR Development: Unity, Meta SDK, hand tracking  
-- Hardware Integration: Raspberry Pi, Arduino, NI USB devices, OWON Signal Generators, Galvo Systems  
-
----
-
-**Advanced Skills**  
-- Acousto-optics: ultrasonic wave interactions, beam steering  
-- Computational Photography: Fourier analysis, depth mapping  
-- VR Development: Unity, Meta SDK, hand tracking  
-- Hardware Integration: Raspberry Pi, Arduino, NI USB devices, OWON Signal Generators, Galvo Systems  
-
+- Hardware Integration: Raspberry Pi, Arduino, NI USB devices, OWON Signal Generators, Galvo Systems
 ---
 
 ## Contact  
