@@ -1,12 +1,12 @@
 # Hi, I'm Kedari Chowtoori  
 
-I'm a full-stack developer and XR enthusiast passionate about building interactive systems — from immersive VR simulations to interactive web apps and robotics projects.  
+I'm a full-stack developer and XR enthusiast passionate about building interactive systems - from immersive VR simulations to interactive web apps and robotics projects.  
 
 ---
 
 ## 🎥 Portfolio Video  
 
-<video src="Kedari_New.mp4" width="600" autoplay loop muted></video>  
+<video src="Kedari_New.mp4" width="600" autoplay loop muted></video>
 
 ---
 
