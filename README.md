@@ -5,43 +5,16 @@ I'm a full-stack developer and XR enthusiast passionate about building interacti
 ---
 
 ## Featured Projects  
-
-### XR / VR  
 - [SASTRA Tour in Unity](https://github.com/ChowtooriKedari/SASTRA-Tour-Unity)  
   A virtual 3D tour of the SASTRA University campus built with Unity for immersive navigation.  
-
----
-
-### Web & Interactive Apps  
 - [Hop Timeline](https://github.com/ChowtooriKedari/Hop_TimeLine_New)  
   An Angular and JavaScript web app showcasing Dartmouth’s art history in an interactive timeline.  
-
 - [HOP Pepper’s Ghost](https://github.com/ChowtooriKedari/HOPPepperGhost)  
   An app for Dartmouth’s Hopkins Center to create Pepper’s Ghost Illusions for interactive student showcases.  
-
----
-
-### 3D Modeling & Interactive Design  
 - [The Garage](https://github.com/ChowtooriKedari/The-Garage)  
   A 3D garage designed and modeled in Maya.  
-
 - [Oreo The Robot](https://github.com/ChowtooriKedari/Oreo_The-Robot)  
   An animated robot design, rigged and animated in Maya.  
-
----
-
-## Timeline of Experience  
-
-- **2023–2025** — Master’s in Computer Science (Digital Arts), Dartmouth College  
-  - Teaching Assistant for Computer Graphics and Digital Fabrication  
-  - Hop Fellow at the Hopkins Center for the Arts (Interactive Timeline & Pepper’s Ghost App)  
-
-- **2021–2023** — Software Engineer, Blackhawk Network  
-  - Built and optimized internal HR & e-commerce platforms  
-  - Improved API response times by 25–30% and achieved 80%+ test coverage  
-
-- **2017–2021** — B.Tech in Computer Science and Engineering, SASTRA University  
-  - Developed academic and personal projects in web, databases, and VR  
 
 ---
 
