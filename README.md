@@ -6,7 +6,7 @@ I'm a full-stack developer and XR enthusiast passionate about building interacti
 
 ## 🎥 Portfolio Video  
 
-<video src="https://github.com/ChowtooriKedari/Portfolio/blob/main/public/Kedari_New.mp4" width="600" autoplay loop muted></video>  
+<video src="Kedari_New.mp4" width="600" autoplay loop muted></video>  
 
 ---
 
