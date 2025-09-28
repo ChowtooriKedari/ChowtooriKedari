@@ -4,17 +4,33 @@ I'm a full-stack developer and XR enthusiast passionate about building interacti
 
 ---
 
+## 🎥 Portfolio Video  
+
+<video src="https://github.com/ChowtooriKedari/Portfolio/blob/main/public/Kedari_New.mp4" width="600" autoplay loop muted></video>  
+
+---
+
 ## Featured Projects  
+
 - [SASTRA Tour in Unity](https://github.com/ChowtooriKedari/SASTRA-Tour-Unity)  
   A virtual 3D tour of the SASTRA University campus built with Unity for immersive navigation.  
+   ![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
+
 - [Hop Timeline](https://github.com/ChowtooriKedari/Hop_TimeLine_New)  
   An Angular and JavaScript web app showcasing Dartmouth’s art history in an interactive timeline.  
+   ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+
 - [HOP Pepper’s Ghost](https://github.com/ChowtooriKedari/HOPPepperGhost)  
   An app for Dartmouth’s Hopkins Center to create Pepper’s Ghost Illusions for interactive student showcases.  
+   ![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
+
 - [The Garage](https://github.com/ChowtooriKedari/The-Garage)  
   A 3D garage designed and modeled in Maya.  
+   ![Maya](https://img.shields.io/badge/Autodesk%20Maya-37A5CC?logo=autodesk&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
+
 - [Oreo The Robot](https://github.com/ChowtooriKedari/Oreo_The-Robot)  
   An animated robot design, rigged and animated in Maya.  
+   ![Maya](https://img.shields.io/badge/Autodesk%20Maya-37A5CC?logo=autodesk&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)  
 
 ---
 
@@ -36,8 +52,8 @@ I'm a full-stack developer and XR enthusiast passionate about building interacti
 
 ## Contact  
 
-- Portfolio Website: [kedari-chowtoori.vercel.app](https://kedari-chowtoori.vercel.app)  
-- LinkedIn: [linkedin.com/in/kedari99](https://www.linkedin.com/in/kedari99/)  
-- Email: [kedarichowtoori@gmail.com](mailto:kedarichowtoori@gmail.com)  
+- <img src="https://img.icons8.com/ios-filled/20/000000/domain.png"/> [Portfolio Website](https://kedari-chowtoori.vercel.app)  
+- <img src="https://img.icons8.com/ios-filled/20/0A66C2/linkedin.png"/> [LinkedIn](https://www.linkedin.com/in/kedari99/)  
+- <img src="https://img.icons8.com/ios-filled/20/EA4335/gmail.png"/> [Email](mailto:kedarichowtoori@gmail.com)  
 
 ---
