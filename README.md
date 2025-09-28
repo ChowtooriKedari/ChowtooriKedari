@@ -19,7 +19,7 @@ I'm a full-stack developer and XR enthusiast passionate about building interacti
 - [The Garage](https://github.com/ChowtooriKedari/The-Garage)  
   A 3D garage designed and modeled in Maya.  
 
-  - [Oreo The Robot](https://github.com/ChowtooriKedari/Oreo_The-Robot)  
+- [Oreo The Robot](https://github.com/ChowtooriKedari/Oreo_The-Robot)  
   An animated robot designed, rigged, and animated in Maya.  
  
 ---
