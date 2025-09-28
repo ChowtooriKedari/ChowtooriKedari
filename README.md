@@ -8,25 +8,20 @@ I'm a full-stack developer and XR enthusiast passionate about building interacti
 
 - [SASTRA Tour in Unity](https://github.com/ChowtooriKedari/SASTRA-Tour-Unity)  
   A virtual 3D tour of the SASTRA University campus built with Unity for immersive navigation.  
-  ![Unity](https://img.shields.io/badge/Unity-100000?logo=unity&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)  
 
 - [Hop Timeline](https://github.com/ChowtooriKedari/Hop_TimeLine_New)  
   An Angular and JavaScript web app showcasing Dartmouth’s art history in an interactive timeline.  
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 
 - [HOP Pepper’s Ghost](https://github.com/ChowtooriKedari/HOPPepperGhost)  
   An app for Dartmouth’s Hopkins Center to create Pepper’s Ghost Illusions for interactive student showcases.  
   Available on the App Store → [Pepper’s Ghost](https://apps.apple.com/us/app/peppers-ghost/id6744206339)  
-  ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)  
-
+ 
 - [The Garage](https://github.com/ChowtooriKedari/The-Garage)  
   A 3D garage designed and modeled in Maya.  
-  ![Maya](https://img.shields.io/badge/Autodesk%20Maya-37A5CC?logo=autodesk&logoColor=white)  
 
-- [Oreo The Robot](https://github.com/ChowtooriKedari/Oreo_The-Robot)  
+   - [Oreo The Robot](https://github.com/ChowtooriKedari/Oreo_The-Robot)  
   An animated robot designed, rigged, and animated in Maya.  
-  ![Maya](https://img.shields.io/badge/Autodesk%20Maya-37A5CC?logo=autodesk&logoColor=white)  
-
+ 
 ---
 ## Tech Stack  
 
