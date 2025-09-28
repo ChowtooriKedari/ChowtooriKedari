@@ -4,14 +4,6 @@ I'm a full-stack developer and XR enthusiast passionate about building interacti
 
 ---
 
-## 🎥 Portfolio Video  
-
-<video src="Kedari_New.mp4" width="600" autoplay loop muted></video>
-
----
-
-## Featured Projects  
-
 ## Featured Projects  
 
 - [SASTRA Tour in Unity](https://github.com/ChowtooriKedari/SASTRA-Tour-Unity)  
